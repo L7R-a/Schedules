@@ -1,0 +1,26 @@
+89745,COT6578,Advanced Computer theory,Graduate,F2F,PSY-108,No
+66636,DIG2158,Introduction to Digital Systems,Undergraduate,Online
+32658,COT6578,Advanced Computer theory,Graduate,Mixed,LPS-35,No
+69745,COP5698, Programming Languages,Graduate,F2F,CB2-122,YES
+19745,MSB-123
+36598,PSY-100 
+20315,HSA1-116
+56980,CDL2587,Introduction to Computers,Undergraduate,F2F,MSB-116,YES
+98123,RMA-008
+91862,RMA-008
+95315,RMA-008
+36636,SOF2058,Introduction to Software,Undergraduate,Online
+12658,LOG5578,Logic and Proof,Graduate,Mixed,LPS-35,Yes
+98103,CMA-008
+90862,RMA-013
+95310,RMA-028
+60045,COP5690, Programming Languages II,Graduate,F2F,CB2-120,YES
+19005,MSB-103
+30008,PSY-107 
+20300,HSA1-16
+51180,CDL2587,Introduction to Computers,Undergraduate,online
+36637,SOF2058,Introduction to Software,Undergraduate,Online
+22658,LOG5578,Logic and Proof,Graduate,F2F,LPS-35,Yes
+98000,CMA-008
+94442,RMA-013
+56510,RMA-028
